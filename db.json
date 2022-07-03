@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Imran Ansari",
+      "email": "imran@gmail.com",
+      "roll": "100"
+    },
+    {
+      "id": 2,
+      "name": "Rocky Rock",
+      "email": "rocky@gmail.com",
+      "roll": 101
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "roll": "106",
+      "id": 3
+    },
+    {
+      "name": "saliha",
+      "email": "saliha@gmail.com",
+      "roll": "105",
+      "id": 4
+    }
+  ]
+}
