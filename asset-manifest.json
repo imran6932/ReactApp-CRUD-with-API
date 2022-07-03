@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactApp-CRUD-with-API/static/css/main.aa7f5e89.css",
+    "main.js": "/ReactApp-CRUD-with-API/static/js/main.bc571627.js",
+    "index.html": "/ReactApp-CRUD-with-API/index.html",
+    "main.aa7f5e89.css.map": "/ReactApp-CRUD-with-API/static/css/main.aa7f5e89.css.map",
+    "main.bc571627.js.map": "/ReactApp-CRUD-with-API/static/js/main.bc571627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa7f5e89.css",
+    "static/js/main.bc571627.js"
+  ]
+}
